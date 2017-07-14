@@ -52,19 +52,31 @@ https://github.com/david-gpu/srez
 ## start building 
 
 start with classifying the MNIST dataset: http://yann.lecun.com/exdb/mnist/
+
 Try face detection and classification on ImageNet: http://image-net.org/index
+
 Do a Twitter sentiment analysis using RNNs:https://cs224d.stanford.edu/reports/YuanYe.pdf or 
+
 CNNs:http://casa.disi.unitn.it/~moschitt/since2013/2015_SIGIR_Severyn_TwitterSentimentAnalysis.pdf
+
 Teach neural networks to reproduce the artistic style of famous painters:https://arxiv.org/abs/1508.06576v1
+
 Compose Music With Recurrent Neural Networks:http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+
 Play ping-pong using Deep Reinforcement Learning:http://karpathy.github.io/2016/05/31/rl/
+
 Neural Networks to Rate a selfie:http://karpathy.github.io/2015/10/25/selfie/
+
 Automatically color Black & White pictures using Deep Learning:https://twitter.com/ColorizeBot
 
 ## blogs
 https://christopherolah.wordpress.com/
+
 http://karpathy.github.io/
+
 https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information/answer/Vivek-Kumar-893
+
 https://plus.google.com/communities/112866381580457264725
+
 http://course.fast.ai/
 
