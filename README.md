@@ -15,6 +15,10 @@ Need more theory? : https://work.caltech.edu/telecourse.html
 Neural Networks and Deep Learning Book: http://neuralnetworksanddeeplearning.com/
 
 Deep Learning Book: http://www.deeplearningbook.org/
+https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
+
+more research:
+https://deepmind.com/research/publications/
 
 ## Focus areas
 
@@ -35,6 +39,7 @@ Introduction: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
 https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 
 Generative Models:
@@ -83,4 +88,8 @@ https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-
 https://plus.google.com/communities/112866381580457264725
 
 http://course.fast.ai/
+
+## Compete
+https://www.kaggle.com/c/digit-recognizer#tutorial
+
 
