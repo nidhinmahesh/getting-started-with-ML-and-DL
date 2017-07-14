@@ -40,6 +40,7 @@ http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
+
 https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 
 Generative Models:
