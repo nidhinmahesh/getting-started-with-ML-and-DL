@@ -44,9 +44,13 @@ https://arxiv.org/abs/1601.06759
 
 go deeper:
 http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks
+
 https://arxiv.org/abs/1406.2661
+
 https://arxiv.org/abs/1511.06434
+
 https://github.com/Newmu/dcgan_code
+
 https://github.com/david-gpu/srez
 
 ## start building 
